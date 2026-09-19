@@ -1,10 +1,15 @@
 <p align="center">
-  <img alt="ShakaCode" src="https://user-images.githubusercontent.com/9152330/217899384-6804bef0-759d-4976-9305-1c5c9609dad8.jpg" width="400px">
+  <img alt="Rightek" src="https://user-images.githubusercontent.com/9152330/217899384-6804bef0-759d-4976-9305-1c5c9609dad8.jpg" width="400px">
 </p>
 
-We’re [Rightek](http://rightek.ir), a small, yet professional team with a passion for partnering with our clients to enable and transform their businesses. We develop elegant, high-performance mobile and web applications built with ASP.NET Core (C#), React, TypeScript, Java, and related technologies for simplified deployment and accelerated performance.
+We’re [Rightek](http://rightek.ir), a software development team building custom web and mobile applications for businesses.
 
-If you are looking for help with the development and optimization of your project, Rightek can help you take your app's reliability and performance to the next level.
+We design and develop reliable, maintainable, and high-performance software using technologies such as ASP.NET Core, C#, SQL Server, React, TypeScript, and Java.
+
+From business websites and web applications to mobile and internal systems, we focus on turning ideas and business requirements into practical software that is built to grow with the business.
+
+We also work on improving and maintaining existing applications, helping teams solve technical challenges and build more reliable software.
+
 
 ### 🛠️ Languages & Tools
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
